@@ -1,4 +1,4 @@
-# worldVisas
+# World Visas
 A browsable view of countries you can go to based on your citizenship
 
 I’ve got a passport. Where can I go?
