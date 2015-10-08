@@ -1,6 +1,8 @@
 # World Visas
 A browsable view of countries you can go to based on your citizenship. 
 
+<img class="aligncenter" alt="Visas Logo" src="https://raw.githubusercontent.com/peterburk/worldVisas/master/visas.png" width="128">
+
 I’ve got a passport. Where can I go?
 
 Choose your country of citizenship:
